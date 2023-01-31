@@ -10,7 +10,7 @@ Several different CNN have been tried. The following table sums up the results.
 | Two-branches U-Net                                  | 157,410    | 0.00049 |
 | Single-branch U-Net                                  | 11,261,121    | 0.00038 |
 
-However, the best results have been achieved with the **Attention U-Net**. In particular, the implementation is based on [this one]([repository](https://github.com/bnsreenu/python_for_microscopists/blob/master/224_225_226_models.py).
+However, the best results have been achieved with the **Attention U-Net**. In particular, the implementation is based on [this one](https://github.com/bnsreenu/python_for_microscopists/blob/master/224_225_226_models.py).
 
 | #parameters | #epochs | Min MSE     | Mean MSE | Std MSE |
 | ----- | ---- | ----------- | ------- | ------- |
